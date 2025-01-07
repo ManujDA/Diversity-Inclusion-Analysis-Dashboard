@@ -22,24 +22,21 @@ Human Resources teams at the telecom company have been working hard to improve g
 
 ![DI_1](https://github.com/user-attachments/assets/4a2d3990-9e63-4b6d-bb1d-7f4bd05442dc)
 
----
 - **Diversity and Inclusion Overview**:
   - Filters to explore data by Department, Job Level, Age Group and Region Group.
   - Hiring distribution across genders and job levels, showing patterns such as female hiring dominance at junior levels and male dominance at senior levels.
   - Promotions data highlighting gender disparities, especially at senior levels.
   - Turnover analysis comparing gender-specific leavers rate across job levels.
-
+---
 ![DI_2](https://github.com/user-attachments/assets/4b124caa-d405-40d0-b5b4-cb5461cc1b1c)
 
----
 - **Performance Analysis**:
   - Gender-based breakdown of performance ratings, showing similar scores for men and women.
   - Executive gender balance over time, using donut charts to illustrate incremental improvements.
   - Age group analysis displaying workforce demographics and job level distribution after promotions.
-
+---
 ![DI_3](https://github.com/user-attachments/assets/1003737e-d513-4304-95d2-97db73330b1d)
 
----
 - **Demographic Diversity**:
   - Gender distribution by department, highlighting male-dominated and female-dominated departments.
   - Nationality diversity with a focus on gender representation.
